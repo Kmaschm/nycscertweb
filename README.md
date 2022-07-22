@@ -4,4 +4,4 @@
 
 
 
-## Made for: For Hunter CS Adv Cert program
+## Made for: Hunter CS Adv Cert program
