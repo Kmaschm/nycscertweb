@@ -29,4 +29,8 @@ function draw() {
 
 ```
 
-## Made for: Hunter CS Adv Cert program
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+| ---- |  ---- |  ---- |  ---- |  ---- |
+| A| B | C | D | E |
+
+### Made for: Hunter CS Adv Cert program
