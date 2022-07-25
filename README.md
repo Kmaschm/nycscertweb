@@ -1,4 +1,4 @@
-# nycscertweb
+# Kate Maschmeyer's Hunter CS Adv Cert Portfolio
 
 ## Intro
 Hi, my name is Kate and this is my Hunter CS Adv Cert Program portfolio.  Please click on a class name for more info.
