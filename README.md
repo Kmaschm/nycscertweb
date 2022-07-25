@@ -43,7 +43,7 @@ Here's a special method I wrote for the Craps prework:
 
 Here's code on removing a node from a linked list:
 
-```Java
+```java
 /**
   Remove the Node at location index from the list.
 
