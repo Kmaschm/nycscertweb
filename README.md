@@ -39,8 +39,44 @@ Here's a special method I wrote for the Craps prework:
 
 ```
 
+### CSCI 70300 - Data Structures in a High-Level Language
+
+Here's code on removing a node from a linked list:
+
+```Java
+/**
+  Remove the Node at location index from the list.
+
+  Ex:
+  
+  Given the list:
+  "a"->"b"->"c"->"d"->"e"
+
+  remove(2) results in:
+  "a"->"b"->"d"->"e"
+  */
+   public void remove(int index){
+    if(index == 0 ) {    
+      head = head.getNext(); // head will point to next one
+    } else if(index < 0 || index > this.size()) {
+      System.out.println("Invalid index.  Nothing to remove");
+    } else {
+       int count = 0;
+        Node walker = head;
+    
+        while (walker != null && count <= (index-1)){
+          if(count == (index-1) ) {
+            walker.setNext(walker.getNext().getNext()); 
+          } 
+          walker = walker.getNext();
+          count++; 
+        }
+    }
+  }
+```
 
 
+### SEC 70300 - Methods for Teaching Computer Science
 
-
+Here is my scaffolded activity: [Coding from a Plan in p5](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Kmaschm/blob/master/methods/06_scaffold_activity.md)
 
