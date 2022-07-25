@@ -9,7 +9,7 @@ We have covered:
 
 Here is my code from LinkedList:
 
-```Java
+```java
 import java.io.*;
 import java.util.*;
 
