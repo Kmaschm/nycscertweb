@@ -12,7 +12,7 @@ Hi, my name is Kate and this is my Hunter CS Adv Cert Program portfolio.  Please
 
 Here's a special method I wrote for the Craps prework:
 
-```Java
+```java
 /**
  * Prints ASCII art of specified result of 6-sided die roll
  *
