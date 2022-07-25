@@ -3,7 +3,7 @@
 
 ## SuperArray
 Here is my SuperArray code:
-```Java
+```java
 import java.io.*;
 import java.util.*; 
 
@@ -371,7 +371,7 @@ public class SuperArray
 
 ## Prework
 Here is my version of Craps from the prework:
-```Java
+```java
 import java.util.Random;
 
 public class Craps {
