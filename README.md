@@ -80,3 +80,6 @@ Here's code on removing a node from a linked list:
 
 Here is my scaffolded activity: [Coding from a Plan in p5](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Kmaschm/blob/master/methods/06_scaffold_activity.md)
 
+### Testing TeX/LaTeX
+
+$$x = \frac{-b \pm sqrt{b^2 - 4ac}}{2a}$$ 
