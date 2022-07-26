@@ -82,4 +82,6 @@ Here is my scaffolded activity: [Coding from a Plan in p5](https://github.com/hu
 
 ### Testing TeX/LaTeX
 
+Inline $x^2 + y^2 = 3^2$
+
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$ 
