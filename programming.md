@@ -4,7 +4,6 @@
 ## SuperArray
 Here is my SuperArray code:
 
-<details><summary>Click to expand for code</summary>
 ```java
 import java.io.*;
 import java.util.*; 
@@ -369,7 +368,7 @@ public class SuperArray
  
 }//end class
 ```
-</details>
+
  
  
 
